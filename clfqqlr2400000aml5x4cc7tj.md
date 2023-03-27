@@ -77,9 +77,6 @@ ILLA Cloud is a low-code platform that can help you create internal tools for yo
     
 * Data management and automation: You can create tools to manage and automate your data operations using actions, triggers, integrations, etc.
     
-
-### ILLA Cloud is a low-code platform that can help you create internal tools for various benefits, such as:
-
 * Saving time and money: You can create internal tools in hours or days instead of weeks or months, and reduce your development and maintenance costs.
     
 * Improving efficiency and quality: You can create internal tools that are tailored to your specific needs and requirements, and ensure data accuracy and consistency.
@@ -114,10 +111,10 @@ If you want to learn more about ILLA Cloud and how it can help you create intern
 
 We hope you enjoyed this blog post and found it useful. If you did, please share it with your friends and colleagues. Thank you for reading! 😊
 
-Join our Discord Community: [discord.com/invite/illacloud](http://discord.com/invite/illacloud￼￼Try)
+<mark>Join our Discord Community: </mark> [<mark>discord.com/invite/illacloud</mark>](http://discord.com/invite/illacloud%EF%BF%BC%EF%BF%BCTry)
 
-Try ILLA Cloud for free: [cloud.illacloud.com](http://cloud.illacloud.com)
+<mark>Try ILLA Cloud for free: </mark> [<mark>cloud.illacloud.com</mark>](http://cloud.illacloud.com)
 
-ILLA Home Page: [illacloud.com](http://illacloud.com)  
-  
-GitHub page: [github.com/illacloud/illa-builder](http://github.com/illacloud/illa-builder)
+<mark>ILLA Home Page: </mark> [<mark>illacloud.com</mark>](http://illacloud.com)
+
+<mark>GitHub page: </mark> [<mark>github.com/illacloud/illa-builder</mark>](http://github.com/illacloud/illa-builder)
