@@ -5,6 +5,7 @@ seoDescription: "Find the best AI content generators for your business with ILLA
 datePublished: Wed Feb 08 2023 15:30:38 GMT+0000 (Coordinated Universal Time)
 cuid: cldvtvc9v03txeynv42p12i2t
 slug: 8-best-ai-content-generators-in-2023
+canonical: https://blog.illacloud.com/8-best-ai-content-generators-in-2023/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675854721556/afed5bad-146c-4f95-8255-7b97e4999ab5.png
 tags: ai, ai-content-generator, ai-tools, chatgpt, illa
 
