@@ -5,6 +5,7 @@ seoDescription: "We will be discussing five of the most popular artificial intel
 datePublished: Thu Feb 09 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cldx9b7dz025cfnnv6ejl3j4e
 slug: artificial-intelligence-models-ai-model-on-hugging-face
+canonical: https://blog.illacloud.com/artificial-intelligence-models-ai-model-on-hugging-face/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675940705013/887bc802-7c49-4fa5-8ace-bbf2bc512857.png
 tags: ai, model, huggingface, chatgpt, illa
 
