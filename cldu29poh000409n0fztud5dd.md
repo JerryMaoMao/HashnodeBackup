@@ -5,6 +5,7 @@ seoDescription: "There are lots of different ways you can automate your workflow
 datePublished: Fri Dec 09 2022 09:49:51 GMT+0000 (Coordinated Universal Time)
 cuid: cldu29poh000409n0fztud5dd
 slug: how-to-automate-your-workflow-with-tools-in-2022
+canonical: https://blog.illacloud.com/how-to-automate-your-workflow-with-tools-in-2022/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675763212493/34feb5be-129b-4670-85c6-3cb54a13cada.png
 tags: startups, workflow, automation, illa, internal-tool
 
