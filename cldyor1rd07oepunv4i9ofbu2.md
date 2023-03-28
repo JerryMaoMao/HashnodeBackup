@@ -5,6 +5,7 @@ seoDescription: "Generative AI revolutionizes creativity by automating processes
 datePublished: Fri Feb 10 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cldyor1rd07oepunv4i9ofbu2
 slug: how-generative-ai-is-changing-creative-work
+canonical: https://blog.illacloud.com/how-generative-ai-is-changing-creative-work/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676026194860/4d60def8-1bcb-42a5-a3ab-c54a5494c3cb.png
 tags: ai, startups, generative-ai, chatgpt, illa
 
