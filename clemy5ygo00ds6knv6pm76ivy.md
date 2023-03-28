@@ -5,6 +5,7 @@ seoDescription: "In this blog, we'll examine ten professions that might be affec
 datePublished: Mon Feb 27 2023 15:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clemy5ygo00ds6knv6pm76ivy
 slug: chatgpt-emergence-10-professions-at-risk-of-losing-their-jobs
+canonical: https://blog.illacloud.com/chatgpt-emergence-10-professions-at-risk-of-losing-their-jobs/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677479061801/3aef417e-0386-479d-aed9-fbacb24b4c00.png
 tags: ai, startups, chatgpt, illa
 
