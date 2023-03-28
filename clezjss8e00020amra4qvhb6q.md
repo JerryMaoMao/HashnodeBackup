@@ -5,6 +5,7 @@ seoDescription: "The combination of natural language input and AI Generation fea
 datePublished: Wed Mar 08 2023 10:39:30 GMT+0000 (Coordinated Universal Time)
 cuid: clezjss8e00020amra4qvhb6q
 slug: introducing-illa-clouds-next-level-feature-harnessing-the-power-of-ai-generation
+canonical: https://blog.illacloud.com/introducing-illa-clouds-next-level-feature-harnessing-the-power-of-ai-generation/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678271810641/1ba417b8-fd7d-4118-bbff-f11c562c7e6b.png
 tags: ai, startups, developer-tools, low-code, illa
 
