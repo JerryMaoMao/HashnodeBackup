@@ -5,6 +5,7 @@ seoDescription: "No code tools are used to bring ease while creating apps that h
 datePublished: Wed Jan 11 2023 10:58:03 GMT+0000 (Coordinated Universal Time)
 cuid: cldoexxhm00060al1ax3lc6ms
 slug: the-top-8-no-code-tools-in-2023
+canonical: https://blog.illacloud.com/the-top-8-no-code-tools-in-2023/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675421426795/8a9c450d-156e-41d8-baf4-f3c0c4242444.png
 tags: startups, development, developer, no-code, illa
 
