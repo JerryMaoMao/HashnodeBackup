@@ -5,6 +5,7 @@ seoDescription: "Learn how to contribute to open-source projects and make a posi
 datePublished: Thu Dec 15 2022 07:58:18 GMT+0000 (Coordinated Universal Time)
 cuid: cldtya8b7000108icasmg6s68
 slug: open-source-for-non-developers-making-a-difference-without-writing-code
+canonical: https://blog.illacloud.com/opensource-for-non-developers/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675758843373/57bda805-1ebf-445d-8482-4ad65908c110.png
 tags: development, opensource, developer, contribution-and-impact, illa
 
