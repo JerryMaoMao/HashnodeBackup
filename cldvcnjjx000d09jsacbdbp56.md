@@ -5,6 +5,7 @@ seoDescription: "When developing an internal tool, picking the right builder can
 datePublished: Tue Dec 06 2022 07:28:13 GMT+0000 (Coordinated Universal Time)
 cuid: cldvcnjjx000d09jsacbdbp56
 slug: how-to-pick-your-best-internal-tool-builder
+canonical: https://blog.illacloud.com/pick-best-internal-tool-builder/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675841186401/6427c71e-1592-4f44-9675-c5940a8ecf08.png
 tags: startups, development, developer, illa, internal-tool
 
