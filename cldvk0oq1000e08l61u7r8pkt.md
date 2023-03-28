@@ -5,6 +5,7 @@ seoDescription: "Low-code tools can significantly increase the development of in
 datePublished: Wed Nov 16 2022 10:54:34 GMT+0000 (Coordinated Universal Time)
 cuid: cldvk0oq1000e08l61u7r8pkt
 slug: top-five-appsmith-alternatives-in-2022
+canonical: https://blog.illacloud.com/top-five-appsmith-alternatives/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675853538239/5fe834c6-49fb-4801-a482-9be7183db4df.png
 tags: development, opensource, low-code, illa, appsmith
 
