@@ -5,6 +5,7 @@ seoDescription: "With ILLA's new Page Feature, developers can use single page an
 datePublished: Wed Nov 23 2022 09:36:26 GMT+0000 (Coordinated Universal Time)
 cuid: cldvh86fx000108l398zy1lpn
 slug: how-illas-page-features-make-you-more-productive-than-ever
+canonical: https://blog.illacloud.com/how-illa-page-features/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675848742119/5aebc16d-444f-4f88-b81c-77db3a6c2673.png
 tags: productivity, single-page-application, illa, internal-tool
 
