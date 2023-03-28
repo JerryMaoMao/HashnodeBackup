@@ -5,6 +5,7 @@ seoDescription: "Low code development allows users to use pre-built components t
 datePublished: Thu Dec 01 2022 08:24:26 GMT+0000 (Coordinated Universal Time)
 cuid: cldvenlg1000c08mf2xp8h37i
 slug: 8-key-benefits-of-low-code-platform
+canonical: https://blog.illacloud.com/8-key-benefits-of-low-code/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675844706448/c746d263-f7b7-4a29-9e29-8f295a0f826d.png
 tags: prototyping, developer, entrepreneurship, low-code, illa
 
