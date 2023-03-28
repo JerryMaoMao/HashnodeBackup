@@ -5,6 +5,7 @@ seoDescription: "ChatGPT is capable of answering follow-up questions, acknowledg
 datePublished: Thu Feb 16 2023 15:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle78blan05z4bynv8zfo0l1o
 slug: chatgpt-is-on-fire-can-it-replace-stack-overflow-for-writing-code-and-debugging
+canonical: https://blog.illacloud.com/chatgpt-and-the-job-market-will-ai-take-over-our-jobs/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676632366762/d3933dcc-185d-434c-a2dd-d665c24f4598.png
 tags: stackoverflow, developer, debugging, chatgpt, illa
 
