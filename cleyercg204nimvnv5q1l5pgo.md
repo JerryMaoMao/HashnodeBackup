@@ -5,6 +5,7 @@ seoDescription: "low code development is a game-changer for software development
 datePublished: Tue Mar 07 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cleyercg204nimvnv5q1l5pgo
 slug: how-will-low-code-shape-the-future-of-software-development
+canonical: https://blog.illacloud.com/how-will-low-code-shape-the-future-of-software-development/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678184398981/c91f5a38-9e65-4615-ab9b-59ebe69dafe2.png
 tags: startups, development, developer, low-code, illa
 
