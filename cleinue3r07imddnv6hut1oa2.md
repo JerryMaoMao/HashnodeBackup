@@ -5,6 +5,7 @@ seoDescription: "Unleash Your Team's Potential with Cloud Collaboration, Integra
 datePublished: Fri Feb 24 2023 15:00:38 GMT+0000 (Coordinated Universal Time)
 cuid: cleinue3r07imddnv6hut1oa2
 slug: announcing-illa-cloud-20
+canonical: https://blog.illacloud.com/announcing-illa-cloud-20/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677232944996/07c13e0e-a16a-424b-b59e-f3569cfe3670.png
 tags: ai, startups, realtime, low-code, illa
 
