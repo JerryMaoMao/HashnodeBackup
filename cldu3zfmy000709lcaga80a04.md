@@ -5,6 +5,7 @@ seoDescription: "Internal tools are used to run businesses with precision. They 
 datePublished: Thu Dec 08 2022 10:37:50 GMT+0000 (Coordinated Universal Time)
 cuid: cldu3zfmy000709lcaga80a04
 slug: the-top-5-internal-tool-builders-in-2022
+canonical: https://blog.illacloud.com/the-top-5-internal-tool-builders/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675765846405/8de91b38-18ac-41de-afce-6a767b469dbe.png
 tags: startups, development, business, low-code, internal-tool
 
