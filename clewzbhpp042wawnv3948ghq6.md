@@ -5,6 +5,7 @@ seoDescription: "In this blog post, we will explore the technology behind low-co
 datePublished: Mon Mar 06 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clewzbhpp042wawnv3948ghq6
 slug: what-is-low-code-platform-exploring-technology-applications-and-advantages
+canonical: https://blog.illacloud.com/what-is-low-code-platform-exploring-technology-applications-and-advantages/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678158525931/a33a964d-0952-4b7b-8f58-031f2c6248ff.png
 tags: startups, technology, developer, low-code, illa
 
