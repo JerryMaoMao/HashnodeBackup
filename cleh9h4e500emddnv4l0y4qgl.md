@@ -5,6 +5,7 @@ seoDescription: "The explosive popularity of the chatbot ChatGPT has made it the
 datePublished: Thu Feb 23 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cleh9h4e500emddnv4l0y4qgl
 slug: beyond-the-algorithm-the-inspiring-story-of-chatgpts-creator-sam-altman
+canonical: https://blog.illacloud.com/beyond-the-algorithm-the-inspiring-story-of-chatgpts-creator-sam-altman/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677150273018/8a47bbf8-da4b-454a-8b64-a4e69918e6bd.png
 tags: ai, algorithms, startups, chatgpt, illa
 
