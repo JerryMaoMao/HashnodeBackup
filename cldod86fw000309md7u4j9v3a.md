@@ -5,6 +5,7 @@ seoDescription: "In this article, we compare Tooljet and Appsmith, two powerful 
 datePublished: Mon Jan 30 2023 09:54:30 GMT+0000 (Coordinated Universal Time)
 cuid: cldod86fw000309md7u4j9v3a
 slug: tooljet-vs-appsmith-which-open-source-low-code-platform-is-better
+canonical: https://blog.illacloud.com/tooljet-vs-appsmith-which-open-source-low-code-platform-is-better/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675416560168/3f7f0273-7ab7-4ccc-9be9-1f3eb0fab32b.png
 tags: startups, development, opensource, developer-tools, low-code
 
