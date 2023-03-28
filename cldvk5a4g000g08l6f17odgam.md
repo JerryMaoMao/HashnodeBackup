@@ -5,6 +5,7 @@ seoDescription: "Among the top 5 most popular low code tools in 2022, Retool is 
 datePublished: Tue Nov 15 2022 10:58:07 GMT+0000 (Coordinated Universal Time)
 cuid: cldvk5a4g000g08l6f17odgam
 slug: 5-most-popular-low-code-tool-in-2022
+canonical: https://blog.illacloud.com/5-most-popular-low-code-tool-in-2022/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675853781815/eb01f679-67d2-42d5-8466-398375f5470f.png
 tags: startups, development, developer-tools, low-code, illa
 
