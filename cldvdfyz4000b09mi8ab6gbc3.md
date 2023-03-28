@@ -5,6 +5,7 @@ seoDescription: "n ILLA's 1.40 Version, we started to support S3. The ILLA S3 Re
 datePublished: Fri Dec 02 2022 07:50:01 GMT+0000 (Coordinated Universal Time)
 cuid: cldvdfyz4000b09mi8ab6gbc3
 slug: illa-cloud-new-v140-amazon-generic-s3
+canonical: https://blog.illacloud.com/illa-cloud-new-amazon-s3/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675842317030/d2d2ebde-e6ea-494d-b140-b069a71693c0.png
 tags: databases, developer, amazon-s3, low-code, illa
 
