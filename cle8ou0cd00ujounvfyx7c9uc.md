@@ -5,6 +5,7 @@ seoDescription: "ChatGPT has amassed over 100 million monthly active users, beco
 datePublished: Fri Feb 17 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle8ou0cd00ujounvfyx7c9uc
 slug: chatgpt-and-the-job-market-will-ai-take-over-our-jobs
+canonical: https://blog.illacloud.com/chatgpt-and-the-job-market-will-ai-take-over-our-jobs/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676632353817/d23acb6e-3a79-4f80-a428-0f262d0956e8.png
 tags: ai, jobs, chatgpt, illa
 
