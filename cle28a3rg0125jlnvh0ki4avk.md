@@ -5,6 +5,7 @@ seoDescription: "ILLA proudly announces a partnership with Hugging Face, a suite
 datePublished: Mon Feb 13 2023 03:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle28a3rg0125jlnvh0ki4avk
 slug: illa-cloud-x-hugging-face-unleash-the-possibility-of-ai-model-with-low-code-tool
+canonical: https://blog.illacloud.com/illa-cloud-x-hugging-face-unleash-the-possibility-of-ai-model-with-low-code-tool/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676220163917/f0a220e9-88de-427d-a8e5-0c3661dc7e83.png
 tags: ai, nlp, low-code, huggingface, illa
 
