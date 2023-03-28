@@ -5,6 +5,7 @@ seoDescription: "In this article, we will discuss what a CRUD app is, and how yo
 datePublished: Fri Feb 03 2023 08:19:48 GMT+0000 (Coordinated Universal Time)
 cuid: cldo9a0ss000e09mofhs72hc0
 slug: what-is-crud-app-and-how-to-build-one
+canonical: https://blog.illacloud.com/what-is-crud-app-and-how-to-build-one/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675412029111/71af27cd-3140-43e6-b2e3-33914e74cfd3.png
 tags: databases, developer, crud, developer-tools, low-code
 
