@@ -5,6 +5,7 @@ seoDescription: "Discover how ACID databases ensure data consistency and integri
 datePublished: Fri Mar 10 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf2p2wq202iggdnva2211ef7
 slug: maintaining-data-integrity-an-introduction-to-acid-compliant-databases
+canonical: https://blog.illacloud.com/maintaining-data-integrity-an-introduction-to-acid-compliant-databases/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678442409842/688c78d5-bb92-478c-8850-0b8786ea7725.png
 tags: data, databases, acid-transactions, illa
 
