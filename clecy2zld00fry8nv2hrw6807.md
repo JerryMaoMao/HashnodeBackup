@@ -5,6 +5,7 @@ seoDescription: "ChatGPT was born in November 2022. Despite still being in its t
 datePublished: Mon Feb 20 2023 15:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clecy2zld00fry8nv2hrw6807
 slug: the-impending-academic-chaos-of-chatgpt-in-2023-what-you-need-to-know
+canonical: https://blog.illacloud.com/the-impending-academic-chaos-of-chatgpt-in-2023-what-you-need-to-know/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676892784910/0525469b-96d6-4e2f-85cf-0064c4e9a64b.png
 tags: ai, chatgpt, illa
 
