@@ -5,6 +5,7 @@ seoDescription: "Discover the potential benefits and implications of ChatGPT and
 datePublished: Wed Feb 15 2023 15:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle5svqf803o7yvnvcoy4da35
 slug: will-chatgpt-be-a-threat-or-a-new-opportunity
+canonical: https://blog.illacloud.com/will-chatgpt-be-a-threat-or-a-new-opportunity/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676454987707/7a4141ee-820e-44a0-9635-5af1644564a3.png
 tags: ai, chatgpt, illa
 
