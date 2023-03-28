@@ -5,6 +5,7 @@ seoDescription: "Open-source software is getting more popular and has come to a 
 datePublished: Thu Nov 24 2022 09:14:23 GMT+0000 (Coordinated Universal Time)
 cuid: cldvgfwax000409l94qqr8kda
 slug: top-10-fast-growing-open-source-project-in-2022
+canonical: https://blog.illacloud.com/top-10-fast-growing-open-source/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675846072746/0eef5da0-d2d0-413b-8852-9fa04182ab53.png
 tags: opensource, projects, databases, supabase, illa
 
