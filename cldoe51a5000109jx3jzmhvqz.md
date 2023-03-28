@@ -5,6 +5,7 @@ seoDescription: "Retool is a low-code internal tools builder that has been gaini
 datePublished: Mon Jan 16 2023 10:34:39 GMT+0000 (Coordinated Universal Time)
 cuid: cldoe51a5000109jx3jzmhvqz
 slug: top-7-retool-alternatives-in-2023
+canonical: https://blog.illacloud.com/top-7-retool-alternatives-in-2023/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675420122142/4a407b32-290d-47dd-80b1-c9aa5770a87d.png
 tags: opensource, build-tool, developer, low-code, retool
 
