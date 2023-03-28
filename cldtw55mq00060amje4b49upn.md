@@ -5,6 +5,7 @@ seoDescription: "Explore the pros and cons of Low Code vs Traditional Developmen
 datePublished: Mon Dec 19 2022 06:58:22 GMT+0000 (Coordinated Universal Time)
 cuid: cldtw55mq00060amje4b49upn
 slug: low-code-or-traditional-development-comparison
+canonical: https://blog.illacloud.com/low-code-or-traditional-development-comparison/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675751729322/4f5bf964-f043-40e7-b806-835654e7bdca.png
 tags: development, developer, developer-tools, low-code, illa
 
