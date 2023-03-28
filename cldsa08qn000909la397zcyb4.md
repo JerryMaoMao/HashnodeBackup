@@ -5,6 +5,7 @@ seoDescription: "Let's take a look at the top 7 database GUIs tools offer unique
 datePublished: Mon Feb 06 2023 03:51:16 GMT+0000 (Coordinated Universal Time)
 cuid: cldsa08qn000909la397zcyb4
 slug: top-7-database-guis-for-sql-databases
+canonical: https://blog.illacloud.com/top-7-database-guis-for-sql-databases/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675654895577/f6c1c696-618a-423b-ad94-96fee535a2ec.png
 tags: databases, sql, gui, low-code, illa
 
