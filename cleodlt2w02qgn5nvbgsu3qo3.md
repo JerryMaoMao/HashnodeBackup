@@ -5,6 +5,7 @@ seoDescription: "while ChatGPT and AI technology have the potential to revolutio
 datePublished: Tue Feb 28 2023 15:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cleodlt2w02qgn5nvbgsu3qo3
 slug: how-chatgpt-and-ai-technology-are-reshaping-industries-and-the-future-of-work
+canonical: https://blog.illacloud.com/how-chatgpt-and-ai-technology-are-reshaping-industries-and-the-future-of-work/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677577564690/11fb86a8-71c7-480d-986e-5b7ac0112b39.png
 tags: ai, startups, technology, chatgpt, illa
 
