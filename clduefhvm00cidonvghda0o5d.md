@@ -5,6 +5,7 @@ seoDescription: "Popular Drag-and-Drop Tool Builders in 2023: Wix, Weebly, Squar
 datePublished: Tue Feb 07 2023 15:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clduefhvm00cidonvghda0o5d
 slug: 8-best-drag-and-drop-tool-builders-in-2023
+canonical: https://blog.illacloud.com/8-best-drag-and-drop-tool-builders-in-2023/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675761469881/022e9fd6-5bf1-4137-801a-0111873179b6.png
 tags: build-tool, developer, drag-and-drop, illa, internal-tool
 
