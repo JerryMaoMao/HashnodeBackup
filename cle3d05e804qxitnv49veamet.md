@@ -5,6 +5,7 @@ seoDescription: "GPT-3 and ChatGPT by OpenAI are two of the hottest topics in th
 datePublished: Mon Feb 13 2023 22:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle3d05e804qxitnv49veamet
 slug: what-are-gpt-3-and-chatgpt-by-openai-how-do-they-work
+canonical: https://blog.illacloud.com/what-are-gpt-3-and-chatgpt-by-openai-how-do-they-work/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676278536731/bbf21335-db82-44f8-9b05-1eb7bce7fd04.png
 tags: ai, developer, gpt-3, chatgpt, illa
 
