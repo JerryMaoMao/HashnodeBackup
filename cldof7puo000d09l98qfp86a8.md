@@ -5,6 +5,7 @@ seoDescription: "ILLA Cloud is an open-source alternative to Retool. The core pr
 datePublished: Fri Dec 30 2022 11:05:38 GMT+0000 (Coordinated Universal Time)
 cuid: cldof7puo000d09l98qfp86a8
 slug: 2022-illa-cloud-annual-report
+canonical: https://blog.illacloud.com/2022-illa-cloud-annual-report/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675422758098/54ddcefd-4da7-45b5-b44b-1664b5852672.png
 tags: development, developer, low-code, illa, internal-tool
 
