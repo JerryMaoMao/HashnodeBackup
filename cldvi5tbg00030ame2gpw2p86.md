@@ -5,6 +5,7 @@ seoDescription: "Retool is one of the best low-code internal tools development s
 datePublished: Tue Nov 22 2022 09:59:56 GMT+0000 (Coordinated Universal Time)
 cuid: cldvi5tbg00030ame2gpw2p86
 slug: top-5-retool-alternatives-in-2022
+canonical: https://blog.illacloud.com/top-5-retool-alternatives-in-2022/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675850437825/35a835ad-2b00-4332-b930-4786a30b40c7.png
 tags: development, developer, low-code, retool, illa
 
