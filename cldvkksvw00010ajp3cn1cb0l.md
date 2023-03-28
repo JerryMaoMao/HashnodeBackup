@@ -5,6 +5,7 @@ seoDescription: "ILLA is a low-code platform that lets developers build internal
 datePublished: Mon Oct 24 2022 11:09:44 GMT+0000 (Coordinated Universal Time)
 cuid: cldvkksvw00010ajp3cn1cb0l
 slug: career-page-build-with-illa
+canonical: https://blog.illacloud.com/career-page-build-with-illa/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675854468325/496476d8-dce8-418e-9653-b995dbf27b22.png
 tags: development, tools, design, developer, illa
 
