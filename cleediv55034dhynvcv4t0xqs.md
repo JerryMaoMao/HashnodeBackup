@@ -5,6 +5,7 @@ seoDescription: "ChatGPT has gained immense popularity due to its remarkable con
 datePublished: Tue Feb 21 2023 15:00:40 GMT+0000 (Coordinated Universal Time)
 cuid: cleediv55034dhynvcv4t0xqs
 slug: chatgpt-revealing-the-technology-and-training-secrets-behind-its-power
+canonical: https://blog.illacloud.com/chatgpt-revealing-the-technology-and-training-secrets-behind-its-power/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676977582685/14e4f95e-b0fc-4472-959b-ce4dd39a50ee.png
 tags: ai, gpt-3, ai-training, chatgpt, illa
 
