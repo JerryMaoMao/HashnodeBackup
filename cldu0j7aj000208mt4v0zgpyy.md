@@ -5,6 +5,7 @@ seoDescription: "Are you tired of juggling multiple tools to manage your busines
 datePublished: Tue Dec 13 2022 09:01:20 GMT+0000 (Coordinated Universal Time)
 cuid: cldu0j7aj000208mt4v0zgpyy
 slug: consolidate-your-internal-tools-and-save-more-with-illa-cloud
+canonical: https://blog.illacloud.com/consolidate-your-internal-tools-and-save-more-with-illa-cloud/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675760537567/9c34f42c-15ea-4231-86f6-94cd0ecddbdf.png
 tags: business, developer, low-code, illa, internal-tool
 
