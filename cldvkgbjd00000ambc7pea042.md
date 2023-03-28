@@ -5,6 +5,7 @@ seoDescription: "ILLA, the low code open source platform for developers, is prou
 datePublished: Wed Nov 09 2022 11:06:43 GMT+0000 (Coordinated Universal Time)
 cuid: cldvkgbjd00000ambc7pea042
 slug: building-applications-faster-with-illa-and-tidb
+canonical: https://blog.illacloud.com/building-applications-faster/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675854004163/f8fab5d5-33b7-4dad-b29d-f158c18b41b7.png
 tags: low-code, tidb, illa, internal-tool, pingcap
 
