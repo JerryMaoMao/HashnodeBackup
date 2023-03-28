@@ -5,6 +5,7 @@ seoDescription: "Project Management is not an easy task but with the help of app
 datePublished: Tue Nov 29 2022 08:46:37 GMT+0000 (Coordinated Universal Time)
 cuid: cldvfge1f000109jx72ov70og
 slug: the-top-5-workflow-apps-to-improve-your-project-management
+canonical: https://blog.illacloud.com/the-top-5-workflow-apps-to-improve-your-project-management/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675844830125/fef84756-da0f-48c6-9f39-fb165f11830c.png
 tags: startups, workflow, project-management, low-code, illa
 
