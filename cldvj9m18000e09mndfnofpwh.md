@@ -5,6 +5,7 @@ seoDescription: "ILLA, a free open-source alternative to Retool, Announces Succe
 datePublished: Sat Jan 08 2022 10:33:16 GMT+0000 (Coordinated Universal Time)
 cuid: cldvj9m18000e09mndfnofpwh
 slug: low-code-platform-illa-cloud-announces-successful-angel-round-of-investing
+canonical: https://blog.illacloud.com/illa-announces-successful-angel-round/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675852254179/9d7f28e6-ca5e-4e2d-b24f-1a33bce19348.png
 tags: startups, investment, angel-investing, illa
 
