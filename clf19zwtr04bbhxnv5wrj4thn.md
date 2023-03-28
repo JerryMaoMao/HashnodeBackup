@@ -5,6 +5,7 @@ seoDescription: "Learn how low code development can save developers time and boo
 datePublished: Thu Mar 09 2023 15:40:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf19zwtr04bbhxnv5wrj4thn
 slug: revolutionizing-internal-tools-how-low-code-is-reducing-development-time-for-developers
+canonical: https://blog.illacloud.com/revolutionizing-internal-tools-how-low-code-is-reducing-development-time-for-developers/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678360334919/ef431f42-4792-4a11-a419-70d0b1c24192.png
 tags: startups, development, developer, low-code, illa
 
