@@ -124,7 +124,7 @@ When you choose ILLA Cloud for your BPA needs, you not only gain access to a pow
 
 Business Process Automation is an essential tool for organizations looking to improve efficiency, streamline operations, and stay competitive in today's fast-paced business landscape. ILLA Cloud's comprehensive BPA platform makes it easy to build, deploy, and optimize automation solutions tailored to your organization's specific needs. By staying ahead of emerging trends and following best practices, you can maximize the benefits of BPA and drive sustained growth for your business. Embark on your automation journey with ILLA Cloud today and experience the transformative power of efficient, automated business processes.
 
-> *Join our Discord Community:* \[*discord.com/invite/illacloud*\](http://discord.com/invite/illacloud)
+> *Join our Discord Community:* [*discord.com/invite/illacloud*](http://discord.com/invite/illacloud)
 > 
 > *Try ILLA Cloud for free:* [*cloud.illacloud.com*](http://cloud.illacloud.com)
 > 
