@@ -6,6 +6,7 @@ datePublished: Mon Apr 03 2023 11:12:17 GMT+0000 (Coordinated Universal Time)
 cuid: clg0qf3m4000o09mf7t1yam6x
 slug: building-a-marketing-automation-center-of-excellence-with-illa-cloud
 canonical: https://blog.illacloud.com/building-a-marketing-automation-center-of-excellence-with-illa-cloud/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680520599104/4981ff27-148e-46ca-8f90-27b9ab2aad07.png
 tags: startups, automation, marketing, low-code, illa
 
 ---
