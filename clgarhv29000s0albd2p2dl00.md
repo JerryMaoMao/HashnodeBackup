@@ -6,6 +6,7 @@ datePublished: Mon Apr 10 2023 11:40:08 GMT+0000 (Coordinated Universal Time)
 cuid: clgarhv29000s0albd2p2dl00
 slug: retool-vs-tooljet-comparing-two-powerful-low-code-platforms-for-internal-tools
 canonical: https://blog.illacloud.com/retool-vs-tooljet-comparing-two-powerful-low-code-platforms-for-internal-tools/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681126830602/928ce0f9-a27e-4811-a752-f3acf4e7b269.png
 tags: startups, developer, low-code, illa, internal-tool
 
 ---
