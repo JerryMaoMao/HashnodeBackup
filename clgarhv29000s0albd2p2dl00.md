@@ -83,7 +83,7 @@ To choose between Retool and Tooljet, consider the following factors:
 
 ## ILLA Cloud: The Best Alternative To Retool And Tooljet
 
-![](https://illasoft.larksuite.com/space/api/box/stream/download/asynccode/?code=NTc3MzFhZTlmMzg4ZGVmMmVlNDg5ZTdlODZiMDdlNzlfVzdxZFp5VTJDZUJJbU45QkVHSjhEaXl5ZVlJeVIweExfVG9rZW46WnJGNWIxNTd1bzBKYVJ4NTdsaXU3TXVsczBkXzE2ODExMjU0NzM6MTY4MTEyOTA3M19WNA align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1681127243416/cfdada03-9bee-4a61-b71f-a79907d3534a.jpeg align="left")
 
 ILLA is a low-code development platform that allows developers to create internal tools in minutes and save time on website design. The drag & drop interface makes creating applications much easier. Both professional developers and citizen developers don't need to do hand coding and they can do rapid application development to boost business processes.
 
