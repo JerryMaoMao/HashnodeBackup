@@ -32,7 +32,9 @@ However, not all LCDPs are created equal. There are many factors to consider whe
 
 In this blog post, we will compare two popular LCDPs for building internal tools: Appsmith and Tooljet. We will also introduce ILLA Cloud, a new and innovative LCDP that offers a viable alternative to Appsmith and Tooljet.
 
-## What is Appsmith?
+## **What is Appsmith?**
+
+![](https://blog.illacloud.com/content/images/2023/04/appsmith-1.png align="left")
 
 Appsmith is an open-source LCDP that enables developers to build admin panels, internal tools, and dashboards. It integrates with 15+ databases and any API and offers a framework to build custom widgets and plugins.
 
@@ -53,7 +55,9 @@ Appsmith’s main features include:
 * A self-hosting option to deploy on any cloud or on-premise server
     
 
-## What is Tooljet?
+## **What is Tooljet?**
+
+![](https://blog.illacloud.com/content/images/2023/04/tooljet-1.png align="left")
 
 Tooljet is an extensible LCDP that enables developers to build business applications. It connects to databases, cloud storage, GraphQL, API endpoints, Airtable, etc., and offers a drag-and-drop application builder.
 
@@ -82,7 +86,9 @@ Here is a table that compares Appsmith and Tooljet based on some key criteria:
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Criteria</strong></p></td><td colspan="1" rowspan="1"><p><strong>Appsmith</strong></p></td><td colspan="1" rowspan="1"><p><strong>Tooljet</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p>Features</p></td><td colspan="1" rowspan="1"><p>- More widgets available<br>- Custom widget development framework<br>- Version control system</p></td><td colspan="1" rowspan="1"><p>- More data sources available<br>- Visual programming interface<br>- Custom component library</p></td></tr><tr><td colspan="1" rowspan="1"><p>Ease of use</p></td><td colspan="1" rowspan="1"><p>- Intuitive UI builder<br>- Familiar query editor (similar to Postman)<br>- Steep learning curve for custom logic</p></td><td colspan="1" rowspan="1"><p>- Intuitive UI builder<br>- Easy-to-use visual programming interface<br>- Moderate learning curve for custom logic</p></td></tr><tr><td colspan="1" rowspan="1"><p>Customization</p></td><td colspan="1" rowspan="1"><p>- High degree of customization using JavaScript<br>- Requires more coding for complex logic</p></td><td colspan="1" rowspan="1"><p>- High degree of customization using JavaScript<br>- Requires less coding for complex logic</p></td></tr><tr><td colspan="1" rowspan="1"><p>Integration</p></td><td colspan="1" rowspan="1"><p>- Supports 15+ databases and any API<br>- No native integrations with SaaS tools or cloud storage</p></td><td colspan="1" rowspan="1"><p>- Supports databases, cloud storage, GraphQL, API endpoints, Airtable, etc.<br>- No native integrations with SaaS tools</p></td></tr><tr><td colspan="1" rowspan="1"><p>Pricing</p></td><td colspan="1" rowspan="1"><p>- Free for self-hosting<br>- Paid plans start from $10/user/month for cloud hosting</p></td><td colspan="1" rowspan="1"><p>- Free for self-hosting<br>- Paid plans start from $10/user/month for cloud hosting</p></td></tr></tbody></table>
 
-## What is ILLA Cloud?
+## **What is ILLA Cloud?**
+
+![](https://blog.illacloud.com/content/images/2023/04/ILLA-CLOUD-blog-6.png align="left")
 
 ILLA Cloud is a new and innovative LCDP that enables developers to build and deploy internal tools in minutes. It connects to various databases and APIs and offers a drag-and-drop UI builder with dozens of components. [It also supports JavaScript and SQL for writing queries and logic](https://blog.illacloud.com/announcing-illa-cloud-20/).
 
