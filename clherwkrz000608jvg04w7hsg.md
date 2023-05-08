@@ -347,12 +347,12 @@ If you want to try ILLA Cloud for yourself, you can sign up for free and start b
 
 Thank you for reading this blog post. We hope you have learned something new and valuable about Redis GUI tools. If you have any questions or feedback, please feel free to comment below or contact us. We would love to hear from you. Happy coding!
 
-> *Join our Discord Community:* [*discord.com/invite/illacloud*  
->   
-> *Try*](http://discord.com/invite/illacloud￼￼Try) *ILLA Cloud for free:* [*cloud.illacloud.com*](http://cloud.illacloud.com)  
->   
-> *ILLA Home Page:* [*illacloud.com*](http://illacloud.com)  
->   
+> *Join our Discord Community:* [*discord.com/invite/illacloud*](http://discord.com/invite/illacloud)
+> 
+> *Try ILLA Cloud for free:* [*cloud.illacloud.com*](http://cloud.illacloud.com)
+> 
+> *ILLA Home Page:* [*illacloud.com*](http://illacloud.com)
+> 
 > *GitHub page:* [*github.com/illacloud/illa-builder*](http://github.com/illacloud/illa-builder)
 
 [  
