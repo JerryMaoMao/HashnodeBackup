@@ -354,6 +354,3 @@ Thank you for reading this blog post. We hope you have learned something new and
 > *ILLA Home Page:* [*illacloud.com*](http://illacloud.com)
 > 
 > *GitHub page:* [*github.com/illacloud/illa-builder*](http://github.com/illacloud/illa-builder)
-
-[  
-](https://blog.illacloud.com/appsmith-vs-illa-cloud-comparing-two-low-code-platforms/)
