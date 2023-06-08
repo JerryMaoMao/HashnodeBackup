@@ -89,7 +89,7 @@ Source:
 
 (5) How to Automate Tasks with ILLA Cloud. [https://blog.illacloud.com/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools/](https://blog.illacloud.com/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools/).
 
-(6) About ILLA - ILLA. [https://www.illacloud.com/en-US/docs/about-illa](https://www.illacloud.com/en-US/docs/about-illa).
+(6) About ILLA - ILLA. [https://www.illacloud.com/docs/about-illa](https://www.illacloud.com/en-US/docs/about-illa).
 
 (7) Budibase. [https://budibase.com/](https://budibase.com/)
 
