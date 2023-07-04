@@ -69,7 +69,15 @@ In traditional drag-and-drop systems, unexpected collisions between components w
 
 ## Conclusion:
 
-With the introduction of the updated drag-and-drop feature, ILLA Cloud has taken a significant step forward in enhancing the component placement and layout experience for designers and developers. The linear movement, absence of extra space, automatic size adjustment, and collision-free placement have transformed the way designers work, making the process more convenient, efficient, and visually pleasing. By incorporating these innovative features, ILLA Cloud reaffirms its commitment to empowering users and enabling them to bring their creative visions to life seamlessly. So why wait? Embrace the power of ILLA Cloud's updated drag-and-drop feature and experience a new era of effortless design.*Join our Discord Community:* [*discord.com/invite/illacloudTry*](http://discord.com/invite/illacloudTry) *ILLA Cloud for free:* [*cloud.illacloud.com*](http://cloud.illacloud.com)*ILLA Home Page:* [*illacloud.com*](http://illacloud.com)*GitHub page:* [*github.com/illacloud/illa-builder*](http://github.com/illacloud/illa-builder)
+With the introduction of the updated drag-and-drop feature, ILLA Cloud has taken a significant step forward in enhancing the component placement and layout experience for designers and developers. The linear movement, absence of extra space, automatic size adjustment, and collision-free placement have transformed the way designers work, making the process more convenient, efficient, and visually pleasing. By incorporating these innovative features, ILLA Cloud reaffirms its commitment to empowering users and enabling them to bring their creative visions to life seamlessly. So why wait? Embrace the power of ILLA Cloud's updated drag-and-drop feature and experience a new era of effortless design.
+
+> *Join our Discord Community:* [*discord.com/invite/illacloud*](http://discord.com/invite/illacloudTry)
+> 
+> *Try* *ILLA Cloud for free:* [*cloud.illacloud.com*](http://cloud.illacloud.com)
+> 
+> *ILLA Home Page:* [*illacloud.*](http://illacloud.com)*com*
+> 
+> *GitHub page:* [*github.com/illacloud/illa-builder*](http://github.com/illacloud/illa-builder)
 
 Source:
 
