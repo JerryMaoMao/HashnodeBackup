@@ -6,6 +6,7 @@ datePublished: Mon Jul 10 2023 11:13:39 GMT+0000 (Coordinated Universal Time)
 cuid: cljwrmc6p000b0amlervp3h3b
 slug: 10-awesome-self-host-low-code-development-platforms-for-enterprise-applications-in-2023
 canonical: https://blog.illacloud.com/10-awesome-self-host-low-code-development-platforms-for-enterprise-applications-in-2023/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688987640302/032ffc7e-9104-4c47-8682-f2e22e540357.png
 tags: cloud, enterprise, opensource, self-hosted, low-code
 
 ---
