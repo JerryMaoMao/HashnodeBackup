@@ -6,6 +6,7 @@ datePublished: Tue Aug 01 2023 11:21:31 GMT+0000 (Coordinated Universal Time)
 cuid: clks7l6x7000208md3h9mfhr7
 slug: 10-ai-agents-that-you-should-know-in-2023
 canonical: https://blog.illacloud.com/10-ai-agents-that-you-should-know-in-2023/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690889008282/6c4d05b5-227b-44ba-80c0-1d8d21bb81fc.png
 tags: ai, machine-learning, nlp, ai-tools, illa
 
 ---
