@@ -6,6 +6,7 @@ datePublished: Mon Aug 14 2023 11:02:35 GMT+0000 (Coordinated Universal Time)
 cuid: cllarmww8000v09la2ivm18jo
 slug: can-we-really-jailbreak-chatgpt-and-how-to-jailbreak-chatgpt
 canonical: https://blog.illacloud.com/can-we-really-jailbreak-chatgpt-and-how-to-jailbreak-chat-gpt/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692010973891/3fc190bb-6da2-420a-85b1-80d9d24f8074.png
 tags: ai, openai, chatgpt, ai-language-model, chagptjailbreak
 
 ---
