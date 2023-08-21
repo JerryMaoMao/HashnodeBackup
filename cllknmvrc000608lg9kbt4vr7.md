@@ -6,6 +6,7 @@ datePublished: Mon Aug 21 2023 09:08:17 GMT+0000 (Coordinated Universal Time)
 cuid: cllknmvrc000608lg9kbt4vr7
 slug: building-a-core-app-dashboard-with-illa-cloud-a-step-by-step-guide-1
 canonical: https://blog.illacloud.com/building-a-core-app-dashboard-with-illa-cloud-a-step-by-step-guide/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692608945482/1ac11660-7da6-40aa-a39d-9c644d4a32fa.png
 tags: opensource, low-code, illa, core-app-dashboard
 
 ---
