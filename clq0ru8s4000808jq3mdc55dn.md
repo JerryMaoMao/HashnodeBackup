@@ -48,4 +48,4 @@ We are grateful for the support of top investors in the open-source industry. We
 
 ## The End
 
-Feel Free to contact me on Linkedin here:[https://www.linkedin.com/in/longbo-chen-5959b2128/](https://www.linkedin.com/in/longbo-chen-5959b2128/)Hello everyone, I'm Owen. We have spent two years developing a very cool open-source low-code tool.
+Feel Free to contact me on Linkedin here:[https://www.linkedin.com/in/longbo-chen-5959b2128/](https://www.linkedin.com/in/longbo-chen-5959b2128/)
