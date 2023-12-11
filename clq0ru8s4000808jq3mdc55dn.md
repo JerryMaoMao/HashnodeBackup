@@ -42,7 +42,9 @@ In our extensive work, we have supported a wide range of integrations, including
 
 We were founded after New Year's Day in 2022. Our product has gone through two full years of iteration, and now we dare to promote it.
 
-We believe that the users here have a strong pursuit of quality products! During the early stages of our establishment, we received funding from many famous venture capitals. So, you don't have to worry about our survival.  We are grateful for the support of top investors in the open-source industry. We believe that open-source can make products thrive and grow. We sincerely invite everyone to join us in building our product.
+We believe that the users here have a strong pursuit of quality products! During the early stages of our establishment, we received funding from many famous venture capitals. So, you don't have to worry about our survival. 
+
+We are grateful for the support of top investors in the open-source industry. We believe that open-source can make products thrive and grow. We sincerely invite everyone to join us in building our product.
 
 ## The End
 
