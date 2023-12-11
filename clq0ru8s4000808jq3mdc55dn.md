@@ -1,10 +1,10 @@
 ---
-title: "Hello everyone, I'm Owen. We have spent two years developing a very cool open-source low-code tool."
+title: "Hi, I'm Owen. We have spent two years developing a very cool open-source product."
 seoTitle: "We have spent two years developing a very cool open-source low-code to"
 seoDescription: "ILLA Cloud is a very user-friendly open-source low-code tool. We have completed two years of iteration so far."
 datePublished: Mon Dec 11 2023 10:29:07 GMT+0000 (Coordinated Universal Time)
 cuid: clq0ru8s4000808jq3mdc55dn
-slug: hello-everyone-im-owen-we-have-spent-two-years-developing-a-very-cool-open-source-low-code-tool
+slug: hi-im-owen-we-have-spent-two-years-developing-a-very-cool-open-source-product
 canonical: https://blog.illacloud.com/open-source-low-code-tool/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702290357185/53a1f631-a70e-4f30-8924-aadad12e0a34.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1702290461989/f86aecc7-ccca-4282-a439-d37873f4d934.jpeg
